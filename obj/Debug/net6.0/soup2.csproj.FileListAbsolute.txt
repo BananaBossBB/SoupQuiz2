@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\soup2\bin\Debug\net6.0\soup2.exe
+C:\Users\MDT\Desktop\soup2\bin\Debug\net6.0\soup2.deps.json
+C:\Users\MDT\Desktop\soup2\bin\Debug\net6.0\soup2.runtimeconfig.json
+C:\Users\MDT\Desktop\soup2\bin\Debug\net6.0\soup2.dll
+C:\Users\MDT\Desktop\soup2\bin\Debug\net6.0\soup2.pdb
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\soup2.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\soup2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\soup2.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\soup2.AssemblyInfo.cs
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\soup2.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\soup2.dll
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\refint\soup2.dll
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\soup2.pdb
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\soup2.genruntimeconfig.cache
+C:\Users\MDT\Desktop\soup2\obj\Debug\net6.0\ref\soup2.dll
